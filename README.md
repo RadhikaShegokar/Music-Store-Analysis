@@ -12,7 +12,7 @@ To run this project on your machine you need to install any SQL-supported DBMS t
 2. Create tables using the schema diagram provided below.
 3. Import csv files provided in the <a href="https://github.com/RadhikaShegokar/Music-Store-Analysis/tree/6f839a40a5a1d4cbc2ea36abd9913bc360acda75/Music-Store-Analysis/Dataset">dataset</a> folder.
 
-Note: If you are using PostgreSQL then restore the <a href="https://github.com/RadhikaShegokar/Music-Store-Analysis/blob/98a5f030beaaca66054f2329313084aafc61e68a/Music-Store-Analysis/music_store_db_backup">backup</a> file of the database and save yourself some time.
+Note: If you are using PostgreSQL then restore the <a href="https://github.com/RadhikaShegokar/Music-Store-Analysis/blob/10c058e126faadb5c0d008eae49ef041b91b95b6/Music-Store-Analysis/music_store_db_backup">backup</a> file of the database and save yourself some time.
 
 ## Schema Diagram
 
